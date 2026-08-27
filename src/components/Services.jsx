@@ -72,7 +72,7 @@ const Services = () => {
               <p className="text-muted leading-relaxed mb-6">
                 {service.description}
               </p>
-              <a href="#" className="text-primary font-medium inline-flex items-center hover:text-blue-700 transition-colors">
+              <a href="#" className="text-primary font-medium inline-flex items-center hover:text-blue-700 transition-colors py-3 md:py-1">
                 Read More <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
               </a>
             </motion.div>
